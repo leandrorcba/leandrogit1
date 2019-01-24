@@ -3,4 +3,6 @@ Pasta
 Pollo
 Carne
 miel 
+caramelos 
+galletitas
 
